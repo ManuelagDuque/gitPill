@@ -1,1 +1,3 @@
 saludo ="hola"
+
+persona = "Enric"
